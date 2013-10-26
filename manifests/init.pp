@@ -9,6 +9,6 @@
 class mplayerx {
   package { 'MPlayerX':
     provider => 'compressed_app',
-    source   => 'http://mplayerx.googlecode.com/files/MPlayerX-1.0.17.zip',
+    source   => 'http://mplayerx.googlecode.com/files/MPlayerX-1.0.19.zip',
   }
 }
