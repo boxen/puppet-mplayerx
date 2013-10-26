@@ -1,4 +1,4 @@
-# MPlayerX Puppet Module for Boxen ![Build Status](https://travis-ci.org/geetarista/puppet-mplayerx.png)
+# MPlayerX Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-mplayerx.png?branch=master)](https://travis-ci.org/boxen/puppet-mplayerx)
 
 Installs the MPlayerX Mac app.
 
